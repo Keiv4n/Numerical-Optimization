@@ -1,6 +1,6 @@
 # Numerical-Optimization
 Python codes of Numerical Optimization course homeworks.
-
+___
 # Numerical Optimization (CS215300) Assignment 1
 ## Introduction
 In this assignment, we expect you to be familiar with optimization library, the numerical calculation package 'SciPy'. We are using the Rosenbrock function as the benchmark of our optimization algorithms. Rosenbrock is a simple fourth-order function has the minimal point at [1,1]. We provide a visualization function which draws the contour.
@@ -13,6 +13,7 @@ In this assignment, we expect you to be familiar with optimization library, the 
 
 - Newton's method is not included in SciPy package, "Pure Newton's method" is implemented.
 
+___
 
 # Numerical Optimization (CS215300) Assignment 2
 ## Introduction
@@ -25,6 +26,7 @@ In this assignment, we expect you to be familiar with the Pytorch optimizer libr
 
 - justifying whether if the setting converges or not by experiment or your hyperthesis.
 
+___
 
 # Numerical Optimization (CS215300) Assignment 3
 ## Introduction
